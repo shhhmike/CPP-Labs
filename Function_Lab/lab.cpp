@@ -14,7 +14,7 @@ int largestTwinPrime(int a, int b);
 
 int main()
 {
-    // Testing for Task A
+    // Testing for Task
     bool test1 = isDivisibleBy(100, 25);
     bool test2 = isDivisibleBy(35, 17);
     cout << "Task A testing: n = 100 and d = 25 is " << ((test1 == 1) ? "True" : "False") << endl;
